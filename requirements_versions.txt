@@ -37,7 +37,7 @@ torch
 torchdiffeq==0.2.3
 torchsde==0.2.6
 httpx==0.24.1
-pillow-avif-plugin==1.4.3
+#pillow-avif-plugin==1.4.3
 pydantic>=2.0.0
 gradio==3.41.2
 pip>=24.0
