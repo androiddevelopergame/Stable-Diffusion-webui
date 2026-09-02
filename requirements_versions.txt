@@ -1,8 +1,7 @@
 facexlib>=0.3.0
 fastapi==0.103.0
-numpy==1.26.4
-jax<0.4.30
-jaxlib<0.4.30
+numpy>=2.0.0
+jax-cpu>=0.4.31
 pydantic>=2.0.0
 onnxruntime>=1.17.0
 open-clip-torch==2.24.0
